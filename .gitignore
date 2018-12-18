@@ -1,0 +1,7 @@
+.vs/
+ElectroTest/obj/
+*.dll
+*.pdb
+Migrations/
+obj/
+*.jar
